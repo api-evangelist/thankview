@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ThankView is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://thankview.com/
+ThankView, now part of EverTrue, provides video fundraising software for nonprofits, enabling organizations to engage donors through personalized video messages and track supporter relationships at scale. The platform integrates with donor management systems and offers APIs for video creation, distribution, and analytics, helping nonprofits increase fundraising effectiveness and donor retention.
+
+**Areas:** Video · Fundraising · Nonprofit · API · Marketing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://thankview.com/)
+- [Documentation](https://www.evertrue.com/thankview/)
+- [Support](https://www.evertrue.com/contact/)
+- [Blog](https://www.evertrue.com/blog/)
+- [Terms of service](https://www.evertrue.com/terms-of-service/)
+- [Privacy policy](https://www.evertrue.com/privacy-policy/)
+- [GitHub](https://github.com/evertrue)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/thankview/](https://apis.io/providers/thankview/).
